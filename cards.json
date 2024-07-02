@@ -1,0 +1,27 @@
+[
+    {
+        "Title": "Dice game",
+        "Des": "A simple game for random number selection between two players",
+        "Link": "https://daredevily.github.io/DiceGame.github.io/"
+    },
+    {
+        "Title": "Drum kit",
+        "Des": "Interactive drum pad for playing sounds via keyboard or mouse clicks",
+        "Link": "https://daredevily.github.io/DrumKit.github.io/"
+    },
+    {
+        "Title": "Simon game",
+        "Des": "A memory-based game involving four colors played in sequence for user replication",
+        "Link": "https://daredevily.github.io/SimonGame.github.io/"
+    },
+    {
+        "Title": "Weather app",
+        "Des": "An application with a search bar to retrieve weather information for any desired location",
+        "Link": "https://daredevily.github.io/WeatherApp.github.io/"
+    },
+    {
+        "Title": "ArcGis Map",
+        "Des":"A mapping application powered by ArcGIS, offering advanced geospatial features",
+        "Link":"https://daredevily.github.io/map/"
+    }
+]
